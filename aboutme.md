@@ -6,3 +6,4 @@
 **Degree Program:** BS Artificial Intelligence
 
 **Hobby:** Playing hockey
+Update aboutme.md for Task 4
